@@ -1,8 +1,7 @@
-## Fundamentos de Node
+## Tareas Consola
 
-Aplicación de consola que genera tablas de multiplicar
+Aplicación de consola para crear, listar, eliminar tareas
 
 Para instalar los módulos de node
 
 ```npm install```
-
