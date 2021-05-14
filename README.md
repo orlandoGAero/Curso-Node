@@ -4,3 +4,4 @@ Incluye:
 - Reforzamiento de Javascript
 - Fundamentos de Node
 - Aplicación de tareas en consola 
+- Aplicación del clima en consola
